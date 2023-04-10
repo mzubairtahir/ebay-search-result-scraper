@@ -33,12 +33,14 @@ Now, before running the script "main.py" you have to give search query and total
 <br>
 <code>
 search_query = "mouse for laptop"
+</code>
+
 <br>
 &
 <br>
 <code>
 total_pages = 5  
-</code>
+
 </code>
 </p>
 <h3>Contributions</h3>

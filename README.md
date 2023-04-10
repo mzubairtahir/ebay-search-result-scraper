@@ -1,5 +1,5 @@
 <h1>Ebay Search Results Scraper 🛠</h1>
-<p>It is a python 🐍 scraper that is scraping search Results of<a href="https://ebay.com">ebay.com</a>
+<p>It is a python 🐍 scraper that is scraping search Results of <a href="https://ebay.com">ebay.com</a>
 <a href=""></a>
 .It scrapes .
 </p>
@@ -30,17 +30,12 @@ Now, before running the script "main.py" you have to give search query and total
 <br>
 <strong>Example:</strong>
 <br>
-<br>
-<code>
-search_query = "mouse for laptop"
-</code>
+<code>search_query = "mouse for laptop"</code>
 
 <br>
 &
 <br>
-<code>
-total_pages = 5  
-</code>
+<code>total_pages = 5</code>
 </p>
 <h3>Contributions</h3>
 <p>If you want to contribute in it to make it more better, simply send pull request</p>

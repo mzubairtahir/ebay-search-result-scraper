@@ -1,14 +1,13 @@
-<h1>Ebay Search Results Scraper 🛠</h1>
+<h1>Ebay Search Results Scraper 🕸</h1>
 <p>It is a python 🐍 scraper that is scraping search Results of <a href="https://ebay.com">ebay.com</a>
 <a href=""></a>
-.It scrapes .
 </p>
 <h3>It is scraping following <span style="color: red;">features</span>  of items:</h3>
 <ul>
 <li>price of item 💲</li>
 <li>Item link 🔗</li>
 <li>Title of item</li>
-<li>Status of item(Pre-owned or Brand-new)</li>
+<li>Status of item (Pre-owned or Brand-new)</li>
 <li>Seller info ℹ</li>
 <li>Item location 🗺</li>
 </ul>

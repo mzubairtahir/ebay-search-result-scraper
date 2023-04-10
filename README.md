@@ -28,6 +28,7 @@ To install these libraries, simply run following command in your terminal <br><b
 <br>
 Now, before running the script "main.py" you have to give search query and total number of pages you want to scrape!
 <br>
+<br>
 <strong>Example:</strong>
 <br>
 <code>search_query = "mouse for laptop"</code>
@@ -38,6 +39,6 @@ Now, before running the script "main.py" you have to give search query and total
 <code>total_pages = 5</code>
 </p>
 <h3>Contributions</h3>
-<p>If you want to contribute in it to make it more better, simply send pull request</p>
+<p>If you want to contribute in it to make it more better, simply send a pull request</p>
 
 

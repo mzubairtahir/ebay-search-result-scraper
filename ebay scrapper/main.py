@@ -6,9 +6,9 @@ import pandas as pd
 # ===============================
 
 # enter name of product that you want to search on ebay
-search_query = "mouse for laptop"
+search_query = ""
 
-total_pages = 5     #Total pages you want to scrape?
+total_pages = 1     #Total pages you want to scrape?
 
 
 Headless=False  #if you want to start the scraper without gui browser then keep it true else false

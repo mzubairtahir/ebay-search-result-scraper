@@ -40,7 +40,6 @@ search_query = "mouse for laptop"
 <br>
 <code>
 total_pages = 5  
-
 </code>
 </p>
 <h3>Contributions</h3>

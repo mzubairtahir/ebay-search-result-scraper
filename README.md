@@ -1,7 +1,7 @@
 <h1>Ebay Search Results Scraper 🛠</h1>
-<p>It is a python 🐍 scraper that is scraping <a href="https://ebay.com">ebay.com</a>
+<p>It is a python 🐍 scraper that is scraping search Results of<a href="https://ebay.com">ebay.com</a>
 <a href=""></a>
-.It scrapes search Results of ebay.
+.It scrapes .
 </p>
 <h3>It is scraping following <span style="color: red;">features</span>  of items:</h3>
 <ul>
